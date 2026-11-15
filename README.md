@@ -13,9 +13,9 @@
 
 | Project | What it does |
 |---------|-------------|
-| [multi-agent-test-orchestration](https://github.com/praneethkothari82-Surya/multi-agent-test-orchestration) | Hierarchical multi-agent workflow: orchestrator → requirement analysis → code agent → review agent → healer agent |
-| [selenium-framework-github-actions](https://github.com/praneethkothari82-Surya/selenium-framework-github-actions) | Selenium 4 + Java 17 + Cucumber BDD + JUnit 5 + Allure — 20 tests with Jenkins + GitHub Actions CI |
-| [Portfolio](https://praneethkothari82-Surya.github.io) | Single-page portfolio with projects, capabilities and experience |
+| [multi-agent-test-orchestration](https://github.com/praneeth-kothari/multi-agent-test-orchestration) | Hierarchical multi-agent workflow: orchestrator → requirement analysis → code agent → review agent → healer agent |
+| [selenium-framework-github-actions](https://github.com/praneeth-kothari/selenium-framework-github-actions) | Selenium 4 + Java 17 + Cucumber BDD + JUnit 5 + Allure — 20 tests with Jenkins + GitHub Actions CI |
+| [Portfolio](https://praneeth-kothari.github.io) | Single-page portfolio with projects, capabilities and experience |
 
 ## Tech stack
 
@@ -31,4 +31,4 @@
 
 ---
 
-📧 praneethk.automation@gmail.com · [LinkedIn](https://www.linkedin.com/in/praneethkothari) · [Portfolio](https://praneethkothari82-Surya.github.io)
+📧 praneethk.automation@gmail.com · [LinkedIn](https://www.linkedin.com/in/praneethkothari) · [Portfolio](https://praneeth-kothari.github.io)
